@@ -70,6 +70,26 @@ $(document).ready(function() {
     .mouseleave(function () {
         $("#text5").hide("slow");
     });
-
+    $("#work6")
+    .mouseenter(function () {
+      $("#text6").show("slow");
+    })
+    .mouseleave(function () {
+      $("#text6").hide("slow");
+    });
+    $("#work7")
+    .mouseenter(function () {
+      $("#text7").show("slow");
+    })
+    .mouseleave(function () {
+      $("#text7").hide("slow");
+    });
+    $("#work8")
+    .mouseenter(function () {
+      $("#text8").show("slow");
+    })
+    .mouseleave(function () {
+      $("#text8").hide("slow");
+    });
 
 })
