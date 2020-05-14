@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.landing_page{
+  background-image: url("../images/backgrounds/h_img.jpg");
+  height: auto;
+  width: auto;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding-top: 180px;
+}
