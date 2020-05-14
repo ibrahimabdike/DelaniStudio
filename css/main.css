@@ -37,3 +37,20 @@
 .servicons {
   padding: 50px;
 }
+
+.profile{
+  text-align: center;
+  padding-right: 50px;
+}
+.des{
+  padding-top: 20px;
+  text-align: center;
+}
+.dev{
+  padding-top: 20px;
+  text-align: center;
+}
+.pm{
+  padding-top: 20px;
+  text-align: center;
+}
