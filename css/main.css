@@ -22,3 +22,18 @@
   padding-top: 70px;
   padding-bottom: 70px;
 }
+
+.serv{
+  background-image: url("../img/backgrounds/s_image.jpg");
+  height: auto;
+  width: auto;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.servicons {
+  padding: 50px;
+}
